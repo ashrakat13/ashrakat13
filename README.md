@@ -1,6 +1,6 @@
 # Hi there, I'm Ashrakat Sabra! 👋
 
-### 🎓 AI Student & Aspiring Machine Learning Engineer
+###  AI Student & Aspiring Machine Learning Engineer
 
 I am a Second-Year **Artificial Intelligence** student at the Faculty of Computers and Information, **Assiut University**. Passionate about solving complex problems through Machine Learning, Search Algorithms, and Evolutionary Computation.
 
