@@ -1,4 +1,4 @@
-# Hi there, I'm Ashrakat Sabra! 👋
+# Hi there, I'm Ashrakat Sabra! 
 
 ###  AI Student & Aspiring Machine Learning Engineer
 
